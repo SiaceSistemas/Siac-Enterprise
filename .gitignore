@@ -1,0 +1,12 @@
+#################
+## Delphi
+#################
+*.local
+*.identcache
+*.res
+*.stat
+*.dcu
+*.~dfm
+*.~pas
+*.~ddp
+__history
